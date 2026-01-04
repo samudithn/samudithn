@@ -120,7 +120,13 @@ My focus is on building **automation platforms**, not just test scripts combinin
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="800" height="220" src="https://profile-summary-for-github.com/user/samudithn" alt="Samudith's GitHub stats"/>
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samudithn&show_icons=true&theme=github_dark&hide_title=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=samudithn&theme=github-dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samudithn&theme=github-dark)
+
 </p>
 
 ---
@@ -165,6 +171,8 @@ My focus is on building **automation platforms**, not just test scripts combinin
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samudithn)
 
 </div>
+
+---
 
 ---
 
