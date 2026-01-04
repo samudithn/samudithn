@@ -152,7 +152,7 @@ My focus is on building **automation platforms**, not just test scripts combinin
 
 ## 🎓 Background
 
-- 🎓 MSc in Computer Science (Excellent – 5/5)
+- 🎓 MSc in Computer Science- University of Eastern Finland
 - 🔬 Research Assistant (EU-funded Erasmus+ project)
 - 🌟 Experience across startups, enterprise, research and freelancing
 
@@ -176,6 +176,6 @@ My focus is on building **automation platforms**, not just test scripts combinin
 
 ### 📍 Finland 🇫🇮, Sri Lanka 🇱🇰 | ☕ Coffee Lover | 🤖 AI Enthusiast
 
-> I believe **software engineering & quality engineering is a discipline** scalable, automated, cloud-native and increasingly AI-assisted, but always human guided.
+> I believe **software engineering & quality engineering disciplines are ** scalable, automated, cloud-native and increasingly AI-assisted, but always human guided.
 
 </div>
