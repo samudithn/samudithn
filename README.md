@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 🚀 Software Engineer | AI-Driven Test Automation Engineer | SDET | Full-Stack QA | Cloud-Native & DevOps
+### 🚀 Software Engineer | 🤖 AI-Driven Test Automation Engineer | 🧪 SDET | 🧩 Full-Stack QA | ☁️ Cloud-Native & DevOps
 
 <p align='center'>
 <a href="https://github.com/samudithn?tab=repositories"><img src="https://img.shields.io/github/stars/samudithn?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
@@ -120,10 +120,6 @@ My focus is on building **automation platforms**, not just test scripts combinin
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samudithn&show_icons=true&theme=github_dark&hide_title=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=samudithn&theme=github-dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samudithn&theme=github-dark)
 
