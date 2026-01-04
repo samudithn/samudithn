@@ -3,6 +3,9 @@
 </h1>
 
 <div align="center">
+
+### 🚀 Software Engineer | AI-Driven Test Automation Engineer | SDET | Full-Stack QA | Cloud-Native & DevOps
+
 <p align='center'>
 <a href="https://github.com/samudithn?tab=repositories"><img src="https://img.shields.io/github/stars/samudithn?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
@@ -10,8 +13,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/samudithn)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samudithn)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/samudithn/)
-
-### 🚀 Software Engineer | AI-Driven Test Automation Engineer | SDET | Full-Stack QA | Cloud-Native & DevOps
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=samudithn.samudithn" alt="visitors"/>
 
